@@ -1,4 +1,4 @@
-<img src="https://github.com/kichkiro/kichkiro/blob/main/assets/banner_get_next_line.jpg?raw=true" width="100%"/>
+<img src="https://github.com/kichkiro/kichkiro/blob/main/assets/banners/banner_get_next_line.jpg?raw=true" width="100%"/>
 
 # Get Next Line
 
